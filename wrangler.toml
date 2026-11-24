@@ -1,11 +1,11 @@
-name = "sina-vless-007"
+name = "cf-edge-worker-2026"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "KV"			#KV绑定名默认不可修改
-id = "8793616be1c048fc8e7962afbfd8dff5"
+binding = "KV"    #KV绑定名默认不可修改
+id = "cf4ab1b98d084fad9fd57be89c8dff5a"
 # Trigger first Workers build
 [observability]
 enabled = true
